@@ -1,0 +1,27 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+    },
+    "last.imagePath": "C:/Users/zer0m/Documents/COMP1151/comp1151prac-tilemapgame-C00lC00lC00l/Assets/Tiled/TilemapGame/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
