@@ -3,11 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "mapdraft.tmx",
     "expandedProjectPaths": [
+        "TilemapGame",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "TilemapGame/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapdraft.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 86.875,
+                "y": 76.375
+            }
+        }
     },
     "last.imagePath": "C:/Users/zer0m/Documents/COMP1151/comp1151prac-tilemapgame-C00lC00lC00l/Assets/Tiled/TilemapGame/Tilemap",
     "map.fixedSize": false,
@@ -15,9 +29,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "TilemapGame/TinyDungeon_Tilesheet.tsx",
+        "mapdraft.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "TilemapGame/TinyDungeon_Tilesheet.tsx",
+        "mapdraft.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
