@@ -3,10 +3,17 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "TilemapGame/TinyDungeon_Tilesheet.tsx",
     "expandedProjectPaths": [
+        "TilemapGame/Tiled",
+        "TilemapGame",
+        "."
     ],
     "fileStates": {
+        "TilemapGame/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
         "mapdraft.tmx": {
             "scale": 4,
             "selectedLayer": 0,
@@ -29,8 +36,14 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "mapdraft.tmx",
+        "physics.tmx",
+        "TilemapGame/TinyDungeon_Tilesheet.tsx"
     ],
     "project": "physics.tiled-project",
     "recentFiles": [
+        "mapdraft.tmx",
+        "physics.tmx",
+        "TilemapGame/TinyDungeon_Tilesheet.tsx"
     ]
 }
